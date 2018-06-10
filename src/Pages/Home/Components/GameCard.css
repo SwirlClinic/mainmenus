@@ -1,0 +1,16 @@
+.gamecard {
+
+}
+
+.gamecard.mdl-card {
+    background: url('../../../Assets/bg/maplestory.jpg') center;
+    min-height: 500px;
+}
+
+.subtitle {
+    color:white;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+}
+
